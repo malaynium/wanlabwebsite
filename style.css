@@ -16,7 +16,7 @@ h1 {
   margin: 10px 0 0 0;
   font-weight: lighter;
   font-weight: bold;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   color: #eeeeee;
   display: block;
 }
