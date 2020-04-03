@@ -115,6 +115,7 @@ span a:hover {
   box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
   */
   /*width: 100px;*/
+
   -webkit-transform: translatey(0px);
           transform: translatey(0px);
   -webkit-animation: float 6s ease-in-out infinite;
@@ -132,4 +133,10 @@ span a:hover {
   padding: 20px 40px;
   box-sizing: border-box;
   text-align: center;
+}
+
+.asterix {
+   color: #56BC58;
+   padding-left: 20px;
+   padding-right: 20px; 
 }
